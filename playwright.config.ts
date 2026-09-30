@@ -10,7 +10,7 @@ export default defineConfig({
   reporter: "html",
 
   use: {
-    baseURL: "https://YOUR-SITE-URL.com",
+    baseURL: "https://atarapygina.wixsite.com/qa-portfolio",
 
     trace: "retain-on-failure",
 
